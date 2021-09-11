@@ -1,6 +1,6 @@
 Implementation of U-net architecture
 
-Description:
+Description:-
 
 
 i. model.py contains the Unet model implemented in pytorch
