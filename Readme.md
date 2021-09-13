@@ -7,7 +7,7 @@ i. model.py contains the Unet model implemented in pytorch
 
 ii. Train.py handles the training.
 
-iii. dataset.py creates the dataset class and creates the respective dataloaders
+iii. dataset.py creates the dataset class and creates the respective dataloaders.
 
 iv. utils.py has utility functions for example augmentation and accuracy/dice coefficients/calculation
 
