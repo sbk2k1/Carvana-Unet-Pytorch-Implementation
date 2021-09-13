@@ -23,4 +23,4 @@ iii. Model will be saved in "my_checkpoint.pth.tar".
 
 iv. Data can be downloaded from <a href="https://www.kaggle.com/c/carvana-image-masking-challenge">Here</a>
 
-v. Only 5040 training and 48 testing/validation images are used
+v. Only 5040 training and 48 testing/validation images are used.
