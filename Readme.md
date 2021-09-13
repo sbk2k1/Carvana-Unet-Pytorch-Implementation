@@ -19,7 +19,7 @@ i. I could not train the model due to limitations in computational resources and
 
 ii. Images as they are predicted will be saved in Prediction_example folder.
 
-iii. Model will be saved in "my_checkpoint.pth.tar"
+iii. Model will be saved in "my_checkpoint.pth.tar".
 
 iv. Data can be downloaded from <a href="https://www.kaggle.com/c/carvana-image-masking-challenge">Here</a>
 
