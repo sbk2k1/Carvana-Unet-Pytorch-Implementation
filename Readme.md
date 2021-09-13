@@ -15,7 +15,7 @@ iv. utils.py has utility functions for example augmentation and accuracy/dice co
 Some points to be kept in mind:
 
 i. I could not train the model due to limitations in computational resources and because google colab cannot install        
-   albumentations library
+   albumentations library.
 
 ii. Images as they are predicted will be saved in Prediction_example folder
 
