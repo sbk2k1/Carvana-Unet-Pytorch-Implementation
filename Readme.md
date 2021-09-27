@@ -3,7 +3,7 @@ Implementation of U-net architecture
 Description:-
 
 
-i. model.py contains the Unet model implemented in pytorch.
+i. model.py contains the Unet model implemented in PyTorch.
 
 ii. Train.py handles the training.
 
